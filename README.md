@@ -1,224 +1,61 @@
-<div align="center">
+# Hi, I'm Mahindra 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:134e4a&height=200&section=header&text=Mahindra%20Guptha%20Kotha&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Backend%20%C2%B7%20Data%20%26%20AI%2FML&descAlignY=58&descSize=16&animation=fadeIn" />
+I'm a software engineer who builds full-stack products, backend systems, and AI/ML pipelines — currently based in Dallas, TX.
 
-<br/>
+Most of my work sits at the intersection of **production engineering and applied AI**. I've built multi-agent systems for healthcare research, shipped a live SaaS platform from scratch, and worked on enterprise integrations at scale. [file:12]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=800&lines=Building+production+systems+across+web%2C+data%2C+and+AI;-60%25+manual+retrieval+time+with+multi-agent+workflows;%2B65%25+reporting+performance+via+database+optimization;Shipping+ideas+to+deployment%2C+end-to-end)](https://git.io/typing-svg)
+## A bit about my work
 
-<br/>
+- Cut manual clinical data retrieval time by 60% while building multi-agent AI workflows at SMU's LabGenie Clinical AI lab [file:12]
+- Built and deployed Secure Spot, a multi-product SaaS platform for the parking and towing industry, live at securespotconnect.com [file:12]
+- Improved reporting performance by 65% and cut production incidents by 45% at Hexagon through database tuning and better test coverage [file:12]
+- Published a first-author paper in Springer on an IoT-based garbage management system [file:12]
 
-[![GitHub followers](https://img.shields.io/github/followers/mmm-byte?style=for-the-badge&color=0f766e&labelColor=1f2933)](https://github.com/mmm-byte?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/mmm-byte?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ca8a04&labelColor=1f2933)](https://github.com/mmm-byte?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=mmm-byte&style=for-the-badge&color=134e4a&labelColor=1f2933)](https://github.com/mmm-byte)
+I've worked across research labs, enterprise teams, and my own startup, so I'm equally comfortable writing an evaluation pipeline for an LLM or debugging a production database issue at 2am.
 
-</div>
+## What I'm good at
 
----
+**Backend & full-stack:** Python, TypeScript, Java, FastAPI, Node.js, Spring Boot, React, Next.js, Angular
 
-## 🔎 What I Do
+**Data:** PostgreSQL, SQL Server, MongoDB — schema design, query tuning, ETL workflows
 
-I design and ship end‑to‑end software systems that blend:
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD pipelines
 
-- **Software engineering:** APIs, microservices, integration, testing, CI/CD pipelines.
-- **Full‑stack product work:** user‑facing apps, backend services, and deployment.
-- **Data & platforms:** SQL optimization, ETL‑style workflows, observability, cloud.
-- **AI / ML:** LLM pipelines, RAG, multi‑agent systems, evaluation & safety.
+**AI/ML:** LangGraph, LangChain, CrewAI, RAG pipelines, multi-agent orchestration, LLM evaluation (RAGAS, DeepEval), NeMo Guardrails
 
-I've worked in **research labs, enterprises, and startups** — so I think in terms of both reliability and iteration speed. [file:12]
+## Roles I'm looking at
 
----
+Software Engineer, Backend/Platform Engineer, Data Engineer, AI/ML Engineer, Full-Stack Developer — basically anywhere that needs someone who can take a system from idea to production and knows how to measure whether it's actually working.
 
-## 🎯 Roles I'm a Good Fit For
+## Some things I've built
 
-<div align="center">
+**[Multi_LLM_Medical_AI_Judge](https://github.com/mmm-byte/Multi_LLM_Medical_AI_Judge)** — A consensus-based evaluation framework that uses multiple small language models to judge medical answer quality, built with privacy constraints in mind. [file:12]
 
-| Role type | What I bring |
-|:---|:---|
-| 🖥️ **Software Engineer** | Full‑stack + backend experience, APIs, testing, CI/CD, production deployments |
-| ⚙️ **Backend / Platform Eng** | Microservices, REST APIs, database design and tuning, observability |
-| 🗄️ **Data Engineer** | SQL Server/PostgreSQL, ETL‑like data flows, performance optimization |
-| 🤖 **AI / ML Engineer** | LLM/RAG pipelines, multi‑agent systems, evaluation frameworks, safety tooling |
-| 🌐 **Full‑Stack Developer** | React/Next.js frontends with Python/Node backends, end‑to‑end product delivery |
+**[SENTINEL](https://github.com/mmm-byte/SENTINEL)** — An autonomous, self-healing system built at the Google Cloud Rapid Agent Hackathon. It uses LangGraph and Gemini to detect and repair corrupt database deployments on its own. [file:12]
 
-</div>
+**[git-why](https://github.com/mmm-byte/git-why)** — A small CLI tool that uses a local LLM (via Ollama) to explain why a piece of code changed, based on git history.
 
-These map directly to my work at SMU LabGenie, Eleviant, Hexagon, and Secure Spot. [file:12]
+**[vibeforge](https://github.com/mmm-byte/vibeforge)** — A pipeline that takes a project from idea through scaffolding, testing, and deployment, with quality checks built in.
 
----
+**[context-engineering-guide](https://github.com/mmm-byte/context-engineering-guide)** — Notes and patterns I've collected on context engineering, RAG, and agent design for production systems.
 
-## 🧱 Tech Stack
+## Background
 
-<div align="center">
+I'm finishing my M.S. in Computer Science (AI/ML) at Southern Methodist University, where I was named a Lyle Dean's Graduate Scholar. Before that, I earned a B.Tech in Mechanical Engineering with a full academic scholarship. [file:12]
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,postgres&theme=dark" />
+I hold certifications in GCP's Professional Data Engineer track and IBM's Cybersecurity Tools & Attacks, along with full-stack web development coursework. [file:12]
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring&theme=dark" />
+A few things I'm proud of: finishing in the top 5% at several national hackathons, receiving a Star Award at Hexagon for project delivery, and co-founding D-Help Foundation, which has supported over 1,000 people through community initiatives. [file:12]
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" />
+## GitHub stats
 
-**Data & Storage**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mmm-byte&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmm-byte&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="Top languages" />
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&theme=dark" />
+## Get in touch
 
-**AI / ML**
-<br/>
+- GitHub: [mmm-byte](https://github.com/mmm-byte)
+- LinkedIn: [mahindra-guptha-kotha](https://linkedin.com/in/mahindra-guptha-kotha)
+- Email: mahindragk22@gmail.com
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1f2933?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1f2933?style=for-the-badge&logo=langchain&logoColor=16a34a)
-![CrewAI](https://img.shields.io/badge/CrewAI-1f2933?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-1f2933?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1f2933?style=for-the-badge)
-![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-1f2933?style=for-the-badge&logo=nvidia&logoColor=76b900)
-![DeepEval](https://img.shields.io/badge/DeepEval-1f2933?style=for-the-badge)
-![RAGAS](https://img.shields.io/badge/RAGAS-1f2933?style=for-the-badge)
-
-</div>
-
-This layout follows patterns from standout profiles that present tech stacks as clear, categorized icon grids rather than long bullet lists. [web:23][web:28][web:32]
-
----
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Production & Systems
-
-**Secure Spot** — Multi‑Product SaaS Platform
-Architected and built a production SaaS for the parking and towing industry — three interconnected apps with event‑driven FastAPI + Kafka APIs, deployed live at `securespotconnect.com`. [file:12]
-
-**Hexagon** — Enterprise Systems Integration
-Full‑stack solutions (Java/.NET/Angular) for engineering data management. **+65%** reporting performance, **+40%** faster deployments, **−45%** production incidents. [file:12]
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI / ML & Evaluation
-
-**[Multi_LLM_Medical_AI_Judge](https://github.com/mmm-byte/Multi_LLM_Medical_AI_Judge)**
-Consensus‑driven SLM evaluation framework for medical answer assessment, with DeepEval‑based quality checks. [file:12]
-
-**[SENTINEL](https://github.com/mmm-byte/SENTINEL)**
-LangGraph‑based self‑healing system (Google Cloud Rapid Agent Hackathon) that autonomously detects and repairs corrupt database deployments. [file:12]
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Tools & Developer Experience
-
-**[git-why](https://github.com/mmm-byte/git-why)**
-Local, AI‑powered CLI that explains the "why" behind git changes using LLMs via Ollama.
-
-**[vibeforge](https://github.com/mmm-byte/vibeforge)**
-Multi‑stage AI development pipeline: idea → scaffolding → testing → deployment with quality gates.
-
-</td>
-<td width="50%" valign="top">
-
-### 📖 Frameworks & Guides
-
-**[context-engineering-guide](https://github.com/mmm-byte/context-engineering-guide)**
-Practical guide to context engineering, RAG, MCP, and AI agents — focused on production‑grade patterns.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Impact at a Glance
-
-<div align="center">
-
-| Metric | Result |
-|:---|:---:|
-| Manual clinical data retrieval time | 🔻 **60%** |
-| Business‑critical reporting performance | 🔺 **65%** |
-| Deployment cycle speed | 🔺 **40%** |
-| Production incidents | 🔻 **45%** |
-
-</div>
-
-Driven by multi‑agent workflows, database optimization, containerized CI/CD, and stronger automated testing across roles. [file:12]
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-| Degree | Institution | Note |
-|:---|:---|:---|
-| M.S. Computer Science (AI/ML) | Southern Methodist University | Lyle Dean's Graduate Scholar |
-| B.Tech Mechanical Engineering | R.V.R. & J.C. College of Engineering | Full Academic Scholar |
-
-</div>
-[file:12]
-
-`Professional Data Engineer (GCP)` · `Cybersecurity Tools & Attacks (IBM)` · `Full‑Stack Web Development & Angular (Udemy)` · `Product Design & Manufacturing` [file:12]
-
----
-
-## 📚 Publications & Achievements
-
-- 📄 First‑author Springer paper: **"An Intelligent Garbage Management System"** — full‑stack IoT system with sensor networks, cloud backend, and autonomous rover. [file:12]
-- 📝 **Consensus‑Driven Medical Answer Evaluation** — under review (clinical QA evaluation with SLM panels). [file:12]
-- 🏆 **Top 5% nationally** in multiple hackathons and ideathons.
-- ⭐ **Star Award & Pat on Back Award** at Hexagon for project delivery and technical leadership.
-- 🌱 Founding executive of **D‑Help Foundation**, impacting 1,000+ individuals. [file:12]
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmm-byte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmm-byte&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mmm-byte&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmm-byte&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmm-byte&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
-
-Stats, streaks, and trophy widgets add visual depth without cluttering the page — a pattern seen across curated "best profile" collections. [web:23][web:14][web:18][web:28]
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mmm--byte-181717?style=for-the-badge&logo=github)](https://github.com/mmm-byte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahindra--guptha--kotha-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahindra-guptha-kotha)
-[![Email](https://img.shields.io/badge/Email-mahindragk22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahindragk22@gmail.com)
-
-</div>
-
-If you're hiring for **software engineering, backend/platform, full‑stack, data, or AI/ML roles**, this profile links directly to the kind of systems I've already built.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:134e4a,100:0f766e&section=footer" />
-</div>
+If you're working on something interesting in AI, backend systems, or full-stack products — or just hiring for any of the above — feel free to reach out.
